@@ -3,9 +3,10 @@
 Muss ich irgendwas dazu sagen?
 
 * AI / Künstliche Intelligenz
-* Börse, FX, Trading
+* Börse, FX, Trading, Aktienfonds
 * Crypto
 * Cyber
+* Immobilien
 * Investements
 * Meta-Versen
 * Referer-Marketing / Landingpages
